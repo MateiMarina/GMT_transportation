@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  
+  root 'web_pages#home'
+
   get 'web_pages/home'
 
   get 'web_pages/help'

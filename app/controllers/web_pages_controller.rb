@@ -11,12 +11,12 @@ class WebPagesController < ApplicationController
   def contact
   end
 
-  def sign-up
+  def sign_up
   end
 
   def track
   end
 
-  def log-in
+  def log_in
   end
 end
